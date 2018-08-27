@@ -1,4 +1,4 @@
-## Uplaoding files with React.js and Node.js
+## Uploading files with React.js and Node.js
 
 This repo is for my blog [Uploading files with React.js and Node.js](https://medium.com/ecmastack/uploading-files-with-react-js-and-node-js-e7e6b707f4ef). Many people found my code exmaples to be confusing, so I created this repo to demo how everthing comestogether.
 
