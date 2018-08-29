@@ -1,6 +1,6 @@
 ## Uploading files with React.js and Node.js
 
-This repo is for my blog [Uploading files with React.js and Node.js](https://medium.com/ecmastack/uploading-files-with-react-js-and-node-js-e7e6b707f4ef). Many people found my code exmaples to be confusing, so I created this repo to demo how everthing comestogether.
+This repo is for my blog [Uploading files with React.js and Node.js](https://medium.com/ecmastack/uploading-files-with-react-js-and-node-js-e7e6b707f4ef). Many people found my code examples to be confusing, so I created this repo to demo how everything comes together.
 
 I didn't add redux in this one, but if you want it - [let me know](https://twitter.com/netxm).
 
@@ -13,5 +13,5 @@ How to run:
 3. `npm run dev` to start it locally
 4. Add you cloudinary API keys in server.js file
 5. open `http://localshost:3000`
-6. upload any file, this example expects images
+6. upload any file, this example expects image file type
 
